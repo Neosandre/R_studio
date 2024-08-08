@@ -102,5 +102,7 @@
 
 <details> 
 <summary><b>Screen Shots</b>
-
+![Screenshot 2024-08-08 105354](https://github.com/user-attachments/assets/371807e5-4532-4274-959a-bf9b5a35c281)
+![Screenshot 2024-08-08 105324](https://github.com/user-attachments/assets/97cbf871-98f1-4e86-a4e1-52b7989672f7)
+![Screenshot 2024-08-08 105253](https://github.com/user-attachments/assets/16babd33-d243-41c0-8760-37c8b09ec44a)
 </details>
