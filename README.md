@@ -1,6 +1,6 @@
 # R_studio Titanic Data
 ### cleaned data using steps on file:
-[https://github.dev/Neosandre/R_studio/blob/3ecffdea8fd1c352f8a3e94fb89c0beb4230f5a0/tutorial_2TitanicData.R]
+
 
 
 
